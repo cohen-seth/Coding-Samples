@@ -1,0 +1,28 @@
+This sample is from a project I completed in one of my courses (STAT440: Sampling Theory). Below is a brief description
+of my research questions and the data set.
+
+
+DowDupont Inc. ~ a multinational chemical corporation
+DowDupont Inc. ~ a stock listed in the Dow Jones Industrial Average.
+One of the leading chemical manufacturers in the world.
+Source: https://www.kaggle.com/timoboz/stock-data-dow-jones
+Reason for choosing it: We thought it would be interesting to see if we could determine if a particular stock
+was a good investment using different sampling techniques
+
+Research Question: Is DowDupont Inc. stock a safe or risky investment based on the average change of its stock prices
+over 368 days?
+Application for real life: Finding the best way to determine if a stock is a good investment to buy by examining if
+the stock's volatility.
+
+Parameter of Interest: mean of change over time
+Change over time = [(New Closing Price - Old Closing Price)/Old Price]
+Mean of change over time = -0.009897590842
+
+
+Variables included in the DWDP data set:
+    - Data from 9/1/17 through 2/20/19
+    - Opening, high, low and closing daily prices
+    - Volume & unadjusted volume (i.e. the number of shares which have been traded that day)
+    - Change in price from the previous closing
+    - Volume-weighted price average (VWAP)
+    - The percent change overtime

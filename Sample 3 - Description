@@ -1,0 +1,10 @@
+This is a project I conducted that focuses on the opioid epidemic in the United States.
+
+In this project I investigated various aspects of the epidemic such as different types of drugs involved, mortality
+ rates, rehabilitation success/failure rates, socioeconomic status, gender and race. I created graphics comparing
+ and analyzing these factors across the United States. I also focused on over dose rates of different
+ towns in Massachusetts.
+
+There are 4 different scripts included in this sample: state_od_count.py, ma_towns.py, gender.py and
+  adjusted_opioid_deathrate.py. The data I used was taken from Data.World.
+
